@@ -1,0 +1,106 @@
+C:\Users\kim\Desktop\mProject2048\login\bin\Debug\login.exe.config
+C:\Users\kim\Desktop\mProject2048\login\bin\Debug\login.exe
+C:\Users\kim\Desktop\mProject2048\login\bin\Debug\login.pdb
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\game2048.csprojAssemblyReference.cache
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\login.Main_Form.resources
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\login.UserControls.Login_Form.resources
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\login.UserControls.Signup_Form.resources
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\game2048.csproj.GenerateResource.cache
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\login.exe
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\login.pdb
+C:\Users\kim\Desktop\mProject2048\login\obj\Debug\login.UserControls.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\bin\Debug\login.exe.config
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\bin\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\bin\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\game2048.csproj.AssemblyReference.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\game2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.Main_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.UserControls.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.UserControls.Login_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.UserControls.Signup_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\game2048.csproj.GenerateResource.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.UserControls.games_form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048\login\obj\Debug\login.UserControls.TestForm.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\bin\Debug\login.exe.config
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\bin\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\bin\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\game2048.csproj.AssemblyReference.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\game2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.Main_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.UserControls.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.UserControls.Login_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.UserControls.Signup_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.UserControls.TestForm.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\game2048.csproj.GenerateResource.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 복사본 (3)\login\obj\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\game2048.csproj.AssemblyReference.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\game2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\login.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\login.Main_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\login.UserControls.Login_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\login.UserControls.Signup_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\game2048.csproj.GenerateResource.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\bin\Debug\login.exe.config
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\bin\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\bin\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.24\login\obj\Debug\login.UserControls.Gauge.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\bin\Debug\login.exe.config
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\bin\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\bin\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\game2048.csproj.AssemblyReference.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\game2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\login.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\login.Main_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\login.UserControls.Gauge.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\login.UserControls.Login_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\login.UserControls.Signup_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\game2048.csproj.GenerateResource.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완)\login\obj\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\bin\Debug\login.exe.config
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\bin\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\bin\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\game2048.csproj.AssemblyReference.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\game2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\login.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\login.Main_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\login.UserControls.Gauge.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\login.UserControls.Login_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\login.UserControls.Signup_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\game2048.csproj.GenerateResource.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\mProject2048 - 4.27(완) - 복사본\login\obj\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\bin\Debug\login.exe.config
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\bin\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\bin\Debug\login.pdb
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\game2048.csproj.AssemblyReference.cache
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\game2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\login.Game_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\login.Main_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\login.UserControls.Gauge.resources
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\login.UserControls.Login_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\login.UserControls.Signup_Form.resources
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\game2048.csproj.GenerateResource.cache
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\game2048.csproj.CoreCompileInputs.cache
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\login.exe
+C:\Users\paul5\OneDrive\바탕 화면\김현민 자료\C# 미니프로젝트\2048(m)\login\obj\Debug\login.pdb
